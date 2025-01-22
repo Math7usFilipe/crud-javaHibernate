@@ -25,6 +25,8 @@ public class Student {
 		this.marks = marks;
 	}
 	
-	
+	public String toString() {
+		return sno + " " + name + " " + marks;
+	}
 	
 }

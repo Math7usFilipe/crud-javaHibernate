@@ -17,9 +17,9 @@ public class StudentInsert {
 		
 		//object
 		Student stud = new Student();
-		stud.setSno(111);
-		stud.setName("Matheus");
-		stud.setMarks(500.00);
+		stud.setSno(444);
+		stud.setName("Luiz");
+		stud.setMarks(250.00);
 		//insert into StudentInfo values(? ? ?)
 		session.persist(stud);
 		tx.commit();

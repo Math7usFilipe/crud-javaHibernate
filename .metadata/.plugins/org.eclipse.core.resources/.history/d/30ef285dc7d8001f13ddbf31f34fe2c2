@@ -1,0 +1,11 @@
+package com.hibernate.test;
+
+public class StudentList {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

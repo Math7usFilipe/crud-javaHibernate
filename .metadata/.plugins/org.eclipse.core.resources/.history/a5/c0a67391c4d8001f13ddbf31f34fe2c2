@@ -1,0 +1,10 @@
+package com.hibernate.test;
+
+public class StudentUpdate {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
