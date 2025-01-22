@@ -1,0 +1,19 @@
+package com.hibernate.utility;
+
+
+
+public class HibernateUtil {
+
+	private static StandardServiceRegistry registry;
+	private static SessionFactory sessionFactory;
+	public static SessionFactory getSessionFactory() {
+		if(sessionFactory == null) {
+			try {
+				
+			} catch (Exception e) {
+				// TODO: handle exception
+			}
+		}
+	}
+	
+}

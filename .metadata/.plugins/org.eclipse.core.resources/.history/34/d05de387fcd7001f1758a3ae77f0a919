@@ -1,0 +1,5 @@
+package com.hibernate.utility;
+
+public class HibernateUtility {
+
+}
