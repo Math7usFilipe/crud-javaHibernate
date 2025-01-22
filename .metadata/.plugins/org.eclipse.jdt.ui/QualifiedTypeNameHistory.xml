@@ -4,8 +4,11 @@
     <fullyQualifiedTypeName name="org.hibernate.boot.MetadataSources"/>
     <fullyQualifiedTypeName name="org.hibernate.boot.Metadata"/>
     <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.SessionFactory"/>
-    <fullyQualifiedTypeName name="org.hibernate.Session"/>
+    <fullyQualifiedTypeName name="org.hibernate.query.SelectionQuery"/>
     <fullyQualifiedTypeName name="com.hibernate.utility.HibernateUtil"/>
     <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+    <fullyQualifiedTypeName name="org.hibernate.Session"/>
+    <fullyQualifiedTypeName name="java.awt.datatransfer.Transferable"/>
     <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
+    <fullyQualifiedTypeName name="com.hibernate.entity.Student"/>
 </qualifiedTypeNameHistroy>
